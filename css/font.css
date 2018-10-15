@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'myriadpro';
+    src: url('../font/myriadpro/MyriadProRegular.ttf');
+    src: url('../font/myriadpro/MyriadProRegular.eot') format('embedded-opentype'),
+         url('../font/myriadpro/MyriadProRegular.woff2') format('woff2'),
+         url('../font/myriadpro/MyriadProRegular.woff') format('woff'),
+         url('../font/myriadpro/MyriadProRegular.ttf') format('truetype'),
+         url('../font/myriadpro/MyriadProRegular.svg#MyriadProRegular') format('svg');
+}
